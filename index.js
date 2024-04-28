@@ -6,4 +6,4 @@ console.log(date.getMonth());
 console.log(date.getDay());
 console.log(date.getHours());
 console.log(date.getMinutes());
-console.log(`current date and time is ${date}`)
+console.log(`current date and time is ${date}`);
